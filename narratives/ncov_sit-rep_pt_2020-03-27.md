@@ -1,4 +1,4 @@
-﻿---
+---
 title: Análise genômica da dispersão da COVID-19. Relatório da situação em 27/03/2020.
 authors:
   - Sidney M. Bell
@@ -34,16 +34,16 @@ abstract: “Este relatório utiliza dados genômicos partilhados publicamente p
 <!-- This is left-side text 1-->
 # [Índice](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
 
-* [Recursos base](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-26?n=2).     
-* [Acerca destes dados](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
-* [Atualizações para a Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
-* [Atualizações para a América do Norte](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=6).  
-* [Atualizações para a América Central e do Sul](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=10).  
-* [Atualizações para a Ásia](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=12).  
-* [Atualizações para a África](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=14).  
-* [Atualizações para a Oceânia](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).  
-* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=18).  
-* [Reconhecimentos científicos](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
+* [Recursos base](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=2).     
+* [Acerca destes dados](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=3).  
+* [Atualizações para a Europa](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=4).  
+* [Atualizações para a América do Norte](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=7).  
+* [Atualizações para a América Central e do Sul](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=11).  
+* [Atualizações para a Ásia](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=13).  
+* [Atualizações para a África](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=15).  
+* [Atualizações para a Oceânia](https://nextstrain.org/narratives/ncov/sit-rep/pt2020-03-27?n=17).  
+* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=19).  
+* [Reconhecimentos científicos](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=20).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Resumo
@@ -79,13 +79,13 @@ Analisamos 1.495 genomas do vírus causador da COVID-19 publicamente disponívei
 Preparamos alguns recursos que vale a pena ler para se familiarizar com a COVID-19 e com o vírus que a causa, o SARS-CoV-2, também conhecido como hCov-19.
 Esta informação fará com que a interpretação dos dados que apresentamos nesta narrativa seja mais fácil.
 <br><br>
-Caso não esteja familiarizado(a) com árvores filogenéticas, encorajamos que consulte a [narrativa “Como ler filogenias”](https://nextstrain.org/narratives/trees-background/) e que aqui regresse quando estiver pronto(a).
+Caso não esteja familiarizado(a) com árvores filogenéticas, encorajamos que consulte a [narrativa “Como ler filogenias”](https://nextstrain.org/narratives/trees-background/pt) e que aqui regresse quando estiver pronto(a).
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
 ## Recursos Nextstrain  
 
-[Como ler uma filogenia](https://nextstrain.org/narratives/trees-background/).  
+[Como ler uma filogenia](https://nextstrain.org/narratives/trees-background/pt).  
 
 [Informação de referência acerca dos coronavírus](https://nextstrain.org/help/coronavirus/human-CoV).
 
@@ -93,7 +93,7 @@ Caso não esteja familiarizado(a) com árvores filogenéticas, encorajamos que c
 
 [Perguntas Frequentes](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-13?n=11).
 
 
 ## Recursos externos  
